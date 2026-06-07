@@ -1,0 +1,47 @@
+Vulpes vulpes
+Canis lupus
+Canis lupus dingo
+Canis lupus familiaris
+Lycaon pictus
+Chrysocyon brachyurus
+Otocyon megalotis
+Urocyon littoralis catalinae
+Canis lupus orion
+Tremarctos ornatus
+Melursus ursinus
+Ursus americanus
+Ursus arctos
+Mirounga angustirostris
+Leptonychotes weddellii
+Neomonachus schauinslandi
+Phoca largha
+Phoca vitulina
+Zalophus californianus
+Enhydra lutris kenyoni
+Lutra lutra
+Lontra canadensis
+Meles meles
+Mustela erminea
+Martes foina
+Martes martes
+Mustela lutreola
+Mustela nivalis
+Martes zibellina
+Mustela nigripes
+Mustela putorius furo
+Spilogale interrupta
+Ailurus fulgens
+Helogale parvula
+Urva auropunctata
+Suricata suricatta
+Cryptoprocta ferox
+Neofelis nebulosa
+Lynx canadensis
+Lynx rufus
+Felis catus
+Puma concolor
+Herpailurus yagouaroundi
+Panthera onca
+Panthera tigris altaica
+Panthera uncia
+Acinonyx jubatus
