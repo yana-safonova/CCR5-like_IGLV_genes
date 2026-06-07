@@ -32,4 +32,4 @@ The script reports the dataframe `data/cdr1_ccr5_similarity_stats.csv` containin
 ## Antibody repertoire characteristics 
 
 ## Citation
-Safonova Y, Pursell T, Whitley CS, Mikhailova A, Pattar V, Pospelova M, Rubio AA, Sheneman KR, Voss KA, Welker JM, Zamyatin A, Bankevich A, Barnes CO, Boeke JD, Haraguchi E, Hudson E, Kline E, Lakdawala SS, Lama TM, Lauer W, Le Sage V, Smith ML, Thomas M, Watson CT, Zheng S, Boyd S, Lawrenz MB, Pennell M, Koepfli K-P. Disruption of a CCR5-like immunoglobulin gene is linked to plague susceptibility in black-footed ferrets. To be submitted. 2026.
+Safonova Y, Pursell T, Sheneman KR, Whitley CS, Mikhailova A, Pattar V, Pospelova M, Rubio AA, Voss KA, Welker JM, Zamyatin A, Bankevich A, Boeke JD, Haraguchi E, Hudson E, Kline E, Lama TM, Lauer W, Le Sage V, Thomas M, Watson CT, Zheng S, Barnes CO, Lakdawala SS, Pennell M, Smith ML, Boyd S, Lawrenz MB, Koepfli K-P. Disruption of a CCR5-like immunoglobulin gene is linked to plague susceptibility in black-footed ferrets. To be submitted. 2026.
