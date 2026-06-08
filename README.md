@@ -8,7 +8,7 @@
 ## Similarity of antigen-binding sites of IGLV and CCR5 genes
 - To compute similarity between CCR5 and IGLV binding sites for the domestic ferret, run:
   
-`python `
+`python scripts/compute_ccr5_similarity_ferret.py`
 
 - To compute similarity between CCR5 and IGLV binding sites across 47 carnivorans, run:
 
@@ -30,6 +30,22 @@ The script reports the dataframe `data/cdr1_ccr5_similarity_stats.csv` containin
 `python scripts/visualize_germline_dnds.py`
 
 ## Antibody repertoire characteristics 
+- Antibody repertoire usages of IGLV genes broken down by CDRL1 lengths of V(D)J recombinations across seven carnivorans are collected in `data/repertoire_gene_usages`.
+
+- To visualize usages of long-CDRL1 IGLV genes, run:
+
+`python scripts/visualize_repertoire_usages.py`
+
+The script also computes the difference in usages between Arctoidea and Canidae species.
+
+- SHM characteristics of long-CRL1 IGLV genes are collected in `data/shm_statistics`. Each file includes the following columns:
+  
+  - `All`, `All_N`, `All_S` - counts of SHMs (all, non-synonymous only, synonymous only) in the region spanning FR1-FR3.
+  - `CDR1`, `CDR1_N`, `CDR1_S` -  - counts of SHMs (all, non-synonymous only, synonymous only) in CDRL1.
+
+- To visualize SHM characteristics in `data/shm_statistics`, run:
+  
+`python scripts/visualize_shm_stats.py`
 
 ## Citation
 Safonova Y, Pursell T, Sheneman KR, Whitley CS, Mikhailova A, Pattar V, Pospelova M, Rubio AA, Voss KA, Welker JM, Zamyatin A, Bankevich A, Boeke JD, Haraguchi E, Hudson E, Kline E, Lama TM, Lauer W, Le Sage V, Thomas M, Watson CT, Zheng S, Barnes CO, Lakdawala SS, Pennell M, Smith ML, Boyd S, Lawrenz MB, Koepfli K-P. Disruption of a CCR5-like immunoglobulin gene is linked to plague susceptibility in black-footed ferrets. To be submitted. 2026.
